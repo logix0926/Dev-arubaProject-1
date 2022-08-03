@@ -4,6 +4,7 @@
 # 環境
 - VirtualBox     6.1.34
 - Vagrant 2.2.19
+- Ubuntu 20.04
 
 
 # 開発ドキュメント
